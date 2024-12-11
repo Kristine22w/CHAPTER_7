@@ -5,6 +5,5 @@ In this chapter, I've learned how to enhance the user experience by adding anima
 
 I've also learned that the AnimationController is a powerful tool in Flutter for managing animations. It provides fine-grained control over an animation, including starting, stopping, reversing, and repeating it. 
 
-Example of AnimationController:
 
 
